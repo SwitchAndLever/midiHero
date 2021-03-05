@@ -14,7 +14,7 @@
 
   The MIDI Hero is accompanied by a build video available here:
 
-  [YOUTUBE LINK TO BE PUT HERE]
+  https://youtu.be/KUDLs62-Zzc
 
   Depending on your build your pin assignments may differ. Make sure you watch the video
   about this project for more information on how to build your own.
