@@ -3,4 +3,6 @@ Code to convert a Guitar Hero World Tour Wii guitar to a MIDI input device using
 
 Do watch the video detailing the build of the MIDI Guitar Hero guitar for more information: 
 
-Links to be added.
+Watch the video here: https://youtu.be/KUDLs62-Zzc
+
+[![Watch the video](https://img.youtube.com/vi/KUDLs62-Zzc/hqdefault.jpg)](https://youtu.be/KUDLs62-Zzc)
